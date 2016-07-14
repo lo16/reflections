@@ -30,3 +30,9 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+
+
+
+
+When working on a branch, periodically merge master into the branch to make sure the branch has all the master changes.
